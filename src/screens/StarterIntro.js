@@ -3,5 +3,5 @@ import React from 'react';
 import {Text} from 'react-native';
 
 export default () => {
-  return <Text>...APPTAB...</Text>;
+  return <Text>Hello World</Text>;
 };
